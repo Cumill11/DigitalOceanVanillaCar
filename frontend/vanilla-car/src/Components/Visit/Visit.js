@@ -342,7 +342,7 @@ export default class Visit extends Component {
                                                                         hidden
                                                                         id="123456"
                                                                         value={
-                                                                            "https://157.245.22.110/code?code=" +
+                                                                            "https://do.vanillacar.me/code?code=" +
                                                                             visit.visitCode
                                                                         }
                                                                         size={290}
@@ -898,7 +898,7 @@ export default class Visit extends Component {
                                                                 className="ms-5 mb-3 mt-3"
                                                                 id="123456"
                                                                 value={
-                                                                    "https://157.245.22.110/code?code=" +
+                                                                    "https://do.vanillacar.me/code?code=" +
                                                                     visit.visitCode
                                                                 }
                                                                 size={100}
@@ -1121,7 +1121,7 @@ export default class Visit extends Component {
                                                             className="ms-5 mb-3 mt-3"
                                                             id="123456"
                                                             value={
-                                                                "https://157.245.22.110/code?code=" +
+                                                                "https://do.vanillacar.me/code?code=" +
                                                                 visit.visitCode
                                                             }
                                                             size={100}

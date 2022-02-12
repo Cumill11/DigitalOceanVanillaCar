@@ -83,7 +83,7 @@ namespace backend.Services
             template.AppendLine("<br>");
             //template.AppendLine("Kliknij <a href='http://localhost:3000/emailconfirm?email=@Model.Email&code=@Model.RandomString'>tutaj</a> aby potwierdzić konto");
             template.AppendLine(
-                "Kliknij <html><a href='http://157.245.22.110/emailconfirm?email=@Model.Email&code=@Model.RandomString'>tutaj</a></html> aby potwierdzić konto");
+                "Kliknij <html><a href='https://do.vanillacar.me/emailconfirm?email=@Model.Email&code=@Model.RandomString'>tutaj</a></html> aby potwierdzić konto");
             template.AppendLine("<br>");
             template.AppendLine("lub wpisz ten kod: @Model.RandomString, na stronie logowania");
             template.AppendLine("<br>");
@@ -316,7 +316,7 @@ namespace backend.Services
             template.AppendLine("<br>");
             //template.AppendLine("Aby zresetować hasło, kliknij <a href='http://localhost:3000/recoverconfirm'>tutaj</a> i wpisz podany kod z maila");
             template.AppendLine(
-                "Aby zresetować hasło, kliknij <html><a href='http://157.245.22.110/recoverconfirm'>tutaj</a></html> i wpisz podany kod z maila");
+                "Aby zresetować hasło, kliknij <html><a href='https://do.vanillacar.me/recoverconfirm'>tutaj</a></html> i wpisz podany kod z maila");
             template.AppendLine("<br>");
             template.AppendLine("Twój kod: @Model.RandomString");
             template.AppendLine("<br>");

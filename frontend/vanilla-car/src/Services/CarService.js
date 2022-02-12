@@ -4,9 +4,9 @@ import AuthenticateHeader from "./AuthenticateHeader";
 // const API_URL = "http://localhost:5000/api/Car";
 // const API_URL_2 = "http://localhost:5000/api/CarProduction"
 // const API_URL_3 = "http://localhost:5000/api/CarName"
-const API_URL = "https://157.245.22.110:8888/api/Car";
-const API_URL_2 = "https://157.245.22.110:8888/api/CarProduction"
-const API_URL_3 = "https://157.245.22.110:8888/api/CarName"
+const API_URL = "https://do.vanillacar.me:8888/api/Car";
+const API_URL_2 = "https://do.vanillacar.me/api/CarProduction"
+const API_URL_3 = "https://do.vanillacar.me/api/CarName"
 
 
 class CarService {

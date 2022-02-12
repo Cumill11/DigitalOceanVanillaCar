@@ -166,7 +166,7 @@ function Printing() {
                                                     <QRCode
                                                         id="123456"
                                                         value={
-                                                            "https://157.245.22.110/codenotregistered?code=" +
+                                                            "https://do.vanillacar.me/codenotregistered?code=" +
                                                             visit.visitNotRegisteredCode
                                                         }
                                                         size={210}
