@@ -3,7 +3,7 @@ import AuthenticateHeader from "./AuthenticateHeader";
 
 // const API_URL = "http://localhost:5000/api/Users/";
 
-const API_URL = "https://localhost:8888/api/Users/";
+const API_URL = "https://do.vanillacar.me:8888/api/Users/";
 
 
 class AuthenticateService {
