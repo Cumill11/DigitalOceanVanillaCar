@@ -371,7 +371,7 @@ export default class NotRegisteredVisits extends Component {
                                                                     hidden
                                                                     id="123456"
                                                                     value={
-                                                                        "https://vanillacar.me/codenotregistered?code=" +
+                                                                        "https://157.245.22.110/codenotregistered?code=" +
                                                                         uservisit.visitNotRegisteredCode
                                                                     }
                                                                     size={290}
@@ -685,7 +685,7 @@ export default class NotRegisteredVisits extends Component {
                                                             className="ms-5 mb-3 mt-3"
                                                             id="123456"
                                                             value={
-                                                                "https://vanillacar.me/codenotregistered?code=" +
+                                                                "https://157.245.22.110/codenotregistered?code=" +
                                                                 uservisit.visitCode
                                                             }
                                                             size={100}
@@ -730,7 +730,7 @@ export default class NotRegisteredVisits extends Component {
                                                                     hidden
                                                                     id="123456"
                                                                     value={
-                                                                        "https://vanillacar.me/codenotregistered?code=" +
+                                                                        "https://157.245.22.110/codenotregistered?code=" +
                                                                         uservisit.visitNotRegisteredCode
                                                                     }
                                                                     size={290}
@@ -839,7 +839,7 @@ export default class NotRegisteredVisits extends Component {
                                                             className="ms-5 mb-3 mt-3"
                                                             id="123456"
                                                             value={
-                                                                "https://vanillacar.me/codenotregistered?code=" +
+                                                                "https://157.245.22.110/codenotregistered?code=" +
                                                                 uservisit.visitCode
                                                             }
                                                             size={100}

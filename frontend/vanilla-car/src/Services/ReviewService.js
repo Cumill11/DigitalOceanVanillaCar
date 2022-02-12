@@ -4,8 +4,8 @@ import AuthenticateHeader from "./AuthenticateHeader";
 // const API_URL = "http://localhost:5000/api/Review";
 // const API_URL_2 = "http://localhost:5000/api/MechanicReview";
 
-const API_URL = "https://vanillacar.me:8888/api/Review";
-const API_URL_2 = "https://vanillacar.me:8888/api/MechanicReview";
+const API_URL = "https://157.245.22.110:8888/api/Review";
+const API_URL_2 = "https://157.245.22.110:8888/api/MechanicReview";
 
 
 class ReviewService {

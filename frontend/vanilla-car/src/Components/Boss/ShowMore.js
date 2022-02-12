@@ -273,7 +273,7 @@ export class ShowMore extends Component {
                                                                         hidden
                                                                         id="123456"
                                                                         value={
-                                                                            "https://vanillacar.me/code?code=" +
+                                                                            "https://157.245.22.110/code?code=" +
                                                                             uservisit.visitCode
                                                                         }
                                                                         size={290}
@@ -801,7 +801,7 @@ export class ShowMore extends Component {
                                                                     className="ms-5 mb-3 mt-3"
                                                                     id="123456"
                                                                     value={
-                                                                        "https://vanillacar.me/code?code=" +
+                                                                        "https://157.245.22.110/code?code=" +
                                                                         uservisit.visitCode
                                                                     }
                                                                     size={100}
@@ -852,7 +852,7 @@ export class ShowMore extends Component {
                                                                         hidden
                                                                         id="123456"
                                                                         value={
-                                                                            "https://vanillacar.me/code?code=" +
+                                                                            "https://157.245.22.110/code?code=" +
                                                                             uservisit.visitCode
                                                                         }
                                                                         size={290}
@@ -1022,7 +1022,7 @@ export class ShowMore extends Component {
                                                                     className="ms-5 mb-3 mt-3"
                                                                     id="123456"
                                                                     value={
-                                                                        "https://vanillacar.me/code?code=" +
+                                                                        "https://157.245.22.110/code?code=" +
                                                                         uservisit.visitCode
                                                                     }
                                                                     size={100}
