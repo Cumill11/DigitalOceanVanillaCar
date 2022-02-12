@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4C1DF02E-0452-4C95-95FF-8C017D068C35}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="przypomnienie/Program.cs">
+    <Files>
+      <File FileName="przypomnienie/Program.cs" Line="17" Column="1" />
+      <File FileName="przypomnienie/Models/CarRepairDbContext.cs" />
+      <File FileName="przypomnienie/Models/VisitType.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="przypomnienie" expanded="True">
+            <Node name="przypomnienie" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.przypomnienie PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
