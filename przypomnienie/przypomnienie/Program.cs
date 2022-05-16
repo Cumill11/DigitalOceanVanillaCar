@@ -44,12 +44,6 @@ namespace przypomnienie
 
                         var sender = new SmtpSender(() => new SmtpClient("smtp.eu.mailgun.org")
                         {
-                            UseDefaultCredentials = false,
-                            DeliveryMethod = SmtpDeliveryMethod.Network,
-                            Port = 587,
-                            Credentials = new NetworkCredential("no-reply@vanillacar.me",
-                                "3a379198c9f026970f5c65d4f72ef9fe-10eedde5-3cd980fe"),
-                            EnableSsl = true
                         });
 
                         StringBuilder template = new();
@@ -114,12 +108,6 @@ namespace przypomnienie
 
                         var sender = new SmtpSender(() => new SmtpClient("smtp.eu.mailgun.org")
                         {
-                            UseDefaultCredentials = false,
-                            DeliveryMethod = SmtpDeliveryMethod.Network,
-                            Port = 587,
-                            Credentials = new NetworkCredential("no-reply@vanillacar.me",
-                                "3a379198c9f026970f5c65d4f72ef9fe-10eedde5-3cd980fe"),
-                            EnableSsl = true
                         });
 
                         StringBuilder template = new();

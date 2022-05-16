@@ -8,8 +8,7 @@ namespace backend.Models
 {
     public class CarRepairDbContext : DbContext
     {
-        private string _connectionString =
-            "Server = vanillacar.me; Port=5432;Database=wstapp;User Id = postgres; Password=wst123;SslMode=Require;Trust Server Certificate=true;Include Error Detail=true";
+        private string _connectionString 
 
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
